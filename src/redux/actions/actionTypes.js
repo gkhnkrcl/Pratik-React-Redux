@@ -1,0 +1,9 @@
+export const CHANGE_CATEGORY="CHANGE_CATEGORY"
+export const GET_FEED_VİDEOS="GET_FEED_VİDEOS"
+export const CHANNEL_VİDEO_ID="CHANNEL_VİDEO_ID"
+export const GET_CHANNEL_DATA= "GET_CHANNEL_DATA"
+export const SEARCH_TERM= "SEARCH_TERM"
+export const VİDEO_DETAİL="VİDEO_DETAİL"
+
+
+
